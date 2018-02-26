@@ -1,0 +1,7 @@
+D:\blancasaf\Documents\CFDI_Recepcion\2\CFDI_Recepcion\VerificadorAF\bin\Debug\VerificadorAF.dll.config
+D:\blancasaf\Documents\CFDI_Recepcion\2\CFDI_Recepcion\VerificadorAF\bin\Debug\VerificadorAF.dll
+D:\blancasaf\Documents\CFDI_Recepcion\2\CFDI_Recepcion\VerificadorAF\bin\Debug\VerificadorAF.pdb
+D:\blancasaf\Documents\CFDI_Recepcion\2\CFDI_Recepcion\VerificadorAF\bin\Debug\Ionic.Zip.dll
+D:\blancasaf\Documents\CFDI_Recepcion\2\CFDI_Recepcion\VerificadorAF\obj\Debug\VerificadorAF.dll
+D:\blancasaf\Documents\CFDI_Recepcion\2\CFDI_Recepcion\VerificadorAF\obj\Debug\VerificadorAF.pdb
+D:\blancasaf\Documents\CFDI_Recepcion\2\CFDI_Recepcion\VerificadorAF\obj\Debug\VerificadorAF.csprojResolveAssemblyReference.cache

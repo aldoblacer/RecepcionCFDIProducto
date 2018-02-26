@@ -1,0 +1,19 @@
+D:\lopezl\Documents\Visual Studio 2015\Source\Workspaces\Atencion al negocio\Dev\Source\CFDI_Recepcion\Dlltotal\bin\Debug\Dlltotal.exe.config
+D:\blancasaf\Documents\CFDI_Recepcion\2\CFDI_Recepcion\Dlltotal\bin\Debug\Dlltotal.exe.config
+D:\blancasaf\Documents\CFDI_Recepcion\2\CFDI_Recepcion\Dlltotal\bin\Debug\Dlltotal.exe
+D:\blancasaf\Documents\CFDI_Recepcion\2\CFDI_Recepcion\Dlltotal\bin\Debug\Dlltotal.pdb
+D:\blancasaf\Documents\CFDI_Recepcion\2\CFDI_Recepcion\Dlltotal\bin\Debug\Microsoft.Exchange.WebServices.Auth.dll
+D:\blancasaf\Documents\CFDI_Recepcion\2\CFDI_Recepcion\Dlltotal\bin\Debug\Microsoft.Exchange.WebServices.dll
+D:\blancasaf\Documents\CFDI_Recepcion\2\CFDI_Recepcion\Dlltotal\bin\Debug\VerificadorAF.dll
+D:\blancasaf\Documents\CFDI_Recepcion\2\CFDI_Recepcion\Dlltotal\bin\Debug\Ionic.Zip.dll
+D:\blancasaf\Documents\CFDI_Recepcion\2\CFDI_Recepcion\Dlltotal\bin\Debug\VerificadorAF.pdb
+D:\blancasaf\Documents\CFDI_Recepcion\2\CFDI_Recepcion\Dlltotal\bin\Debug\Microsoft.Exchange.WebServices.pdb
+D:\blancasaf\Documents\CFDI_Recepcion\2\CFDI_Recepcion\Dlltotal\bin\Debug\Microsoft.Exchange.WebServices.xml
+D:\blancasaf\Documents\CFDI_Recepcion\2\CFDI_Recepcion\Dlltotal\bin\Debug\Microsoft.Exchange.WebServices.Auth.pdb
+D:\blancasaf\Documents\CFDI_Recepcion\2\CFDI_Recepcion\Dlltotal\bin\Debug\Microsoft.Exchange.WebServices.Auth.xml
+D:\blancasaf\Documents\CFDI_Recepcion\2\CFDI_Recepcion\Dlltotal\obj\Debug\Dlltotal.csprojResolveAssemblyReference.cache
+D:\blancasaf\Documents\CFDI_Recepcion\2\CFDI_Recepcion\Dlltotal\obj\Debug\Dlltotal.Form1.resources
+D:\blancasaf\Documents\CFDI_Recepcion\2\CFDI_Recepcion\Dlltotal\obj\Debug\Dlltotal.Properties.Resources.resources
+D:\blancasaf\Documents\CFDI_Recepcion\2\CFDI_Recepcion\Dlltotal\obj\Debug\Dlltotal.csproj.GenerateResource.Cache
+D:\blancasaf\Documents\CFDI_Recepcion\2\CFDI_Recepcion\Dlltotal\obj\Debug\Dlltotal.exe
+D:\blancasaf\Documents\CFDI_Recepcion\2\CFDI_Recepcion\Dlltotal\obj\Debug\Dlltotal.pdb
